@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header&text=&animation=fadeIn)
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+James+%F0%9F%91%8B;Full-Stack+Web+Developer;React+%2B+TypeScript+Engineer;BSIT+Student+%40+USTP+%F0%9F%87%B5%F0%9F%87%AD)](https://git.io/typing-svg)
@@ -98,7 +100,7 @@ When I'm not writing code or debugging, my ultimate escape is watching Anime and
 ## 🎯 Currently
 
 - 🎓 Studying **BS Information Technology** at **USTP**
-- 🌐 Building my personal portfolio at **[jameschristopher.online](https://www.jameschristopher.online)**
+- 🌐 Building my personal portfolio at [![Portfolio](https://img.shields.io/badge/jameschristopher.online-DC143C?style=flat-square)](https://www.jameschristopher.online)
 - 📖 Deepening expertise in **React Server Components**, **Next.js App Router**, and **AI integrations**
 - 🔍 Actively looking for **Software Engineering Intern / Junior Developer** opportunities
 
@@ -108,6 +110,6 @@ When I'm not writing code or debugging, my ultimate escape is watching Anime and
 
 **Thanks for visiting! Drop a ⭐ on something you like 👋**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=150&section=footer&animation=fadeIn)
 
 </div>
