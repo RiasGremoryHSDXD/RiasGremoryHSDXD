@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+James+%F0%9F%91%8B;Full-Stack+Web+Developer;React+%2B+TypeScript+Engineer;BSIT+Student+%40+USTP+%F0%9F%87%B5%F0%9F%87%AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+James+%F0%9F%91%8B;Full-Stack+Web+Developer;React+%2B+TypeScript+Engineer;BSIT+Student+%40+USTP+%F0%9F%87%B5%F0%9F%87%AD)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RiasGremoryHSDXD&color=58a6ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/RiasGremoryHSDXD?label=Followers&style=flat-square&color=58a6ff)](https://github.com/RiasGremoryHSDXD?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/RiasGremoryHSDXD?label=Stars&style=flat-square&color=f1c40f)](https://github.com/RiasGremoryHSDXD)
+![Profile Views](https://komarev.com/ghpvc/?username=RiasGremoryHSDXD&color=dc143c&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/RiasGremoryHSDXD?label=Followers&style=flat-square&color=dc143c)](https://github.com/RiasGremoryHSDXD?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/RiasGremoryHSDXD?label=Stars&style=flat-square&color=dc143c)](https://github.com/RiasGremoryHSDXD)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🔴 About Me
 
 ```typescript
 const jamesChristopher = {
@@ -41,9 +41,22 @@ const jamesChristopher = {
 };
 ```
 
+### 🌸 Beyond the Screen
+
+When I'm not writing code or debugging, my ultimate escape is watching Anime and reading Light Novels, Manhwa, and Manga. They bring me genuine happiness and are my favorite pastime when I want to unwind.
+
+<div align="center">
+  <img src="https://media.tenor.com/9TPOXjO6784AAAAM/dxd-gremory-rias.gif" alt="Rias Gremory" width="280" />
+
+  <br/><br/>
+
+  > *"Because hardships strengthen resolve, the strong-minded will not be lured by worldly affairs. Today I step on grass; later I shall step on mountains and rivers!"*  
+  > — **Fang Yuan**, *Reverend Insanity*
+</div>
+
 ---
 
-## 🌐 Connect With Me
+## 🦇 Connect With Me
 
 <div align="center">
 
@@ -57,7 +70,7 @@ const jamesChristopher = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🍷 Tech Stack
 
 | Category | Technologies |
 |---|---|
@@ -70,7 +83,7 @@ const jamesChristopher = {
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -92,13 +105,6 @@ const jamesChristopher = {
 ---
 
 <div align="center">
-
-### 💬 Quote I Live By
-
-> *"First, solve the problem. Then, write the code."*  
-> — John Johnson
-
----
 
 **Thanks for visiting! Drop a ⭐ on something you like 👋**
 
