@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header&text=&animation=fadeIn)
+![Header](https://cdn.jsdelivr.net/gh/RiasGremoryHSDXD/RiasGremoryHSDXD@main/Top.svg)
 
 <div align="center">
 
@@ -110,6 +110,6 @@ When I'm not writing code or debugging, my ultimate escape is watching Anime and
 
 **Thanks for visiting! Drop a ⭐ on something you like 👋**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=150&section=footer&animation=fadeIn)
+![Footer](https://cdn.jsdelivr.net/gh/RiasGremoryHSDXD/RiasGremoryHSDXD@main/Bottom.svg)
 
 </div>
